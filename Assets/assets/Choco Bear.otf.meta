@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8ded2be3ac7f8fe469f341eb32829595
+timeCreated: 1587393468
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Choco Bear
+  fontNames:
+  - Choco Bear
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
