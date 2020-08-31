@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/ui.unity
+    guid: 09417eb09791cf948822288eb781712f
+  - enabled: 1
+    path: Assets/scenes/terrain.unity
+    guid: b2f64b51277716b41b537ddb73e7fddd
+  - enabled: 1
+    path: Assets/scenes/second.unity
+    guid: 5e3947dec8a720b439ce4de3a8afae18
+  - enabled: 1
+    path: Assets/scenes/third.unity
+    guid: 768843c88557ab348b4fb814cd3f97ef
+  - enabled: 1
+    path: Assets/scenes/fourth.unity
+    guid: 7d6b65cb2506e9b4abb85859e9a51d58
+  - enabled: 1
+    path: Assets/scenes/fifth.unity
+    guid: 61ac7f0234106b34c8c3ef9916e56a4d
+  - enabled: 1
+    path: Assets/scenes/Instruction.unity
+    guid: ed99634e2d2320f4ca030321321f7847
+  - enabled: 1
+    path: Assets/scenes/Options.unity
+    guid: 7b058532d0e7cb547b74b393d7af071e
+  - enabled: 1
+    path: Assets/scenes/winning.unity
+    guid: 538b0d0bb5b87b54487a571924cd26cd
+  - enabled: 1
+    path: Assets/scenes/Gameover.unity
+    guid: d118c016727d17c43b5d5c117e967b07
+  - enabled: 0
+    path: 
+    guid: f1b55dbc9d9e04346b6adf34a4d637a0

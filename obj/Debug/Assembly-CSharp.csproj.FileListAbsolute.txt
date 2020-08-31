@@ -1,0 +1,96 @@
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\major project\New Unity Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\obj\Debug\Assembly-CSharp.dll
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Lenovo\Desktop\major project\New Unity Project - Copy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\work\major project\New Unity Project - Copy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\nunit.framework.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEditor.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\Mono.Cecil.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\Unity.DataContract.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\ExCSS.Unity.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.xml
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEditor.xml
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\nunit.framework.xml
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\work\major project\New Unity Project - Copy\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\work\major project\New Unity Project - Copy\obj\Debug\Assembly-CSharp.dll
+C:\work\major project\New Unity Project - Copy\obj\Debug\Assembly-CSharp.pdb
